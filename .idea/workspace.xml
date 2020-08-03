@@ -2,21 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2e569cb-ed98-43ae-ac88-085d4f9cceb9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/RDD/src/main/resources/data1.txt/._SUCCESS.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RDD/src/main/resources/data1.txt/.part-00000.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RDD/src/main/resources/data1.txt/.part-00001.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RDD/src/main/resources/data1.txt/.part-00002.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RDD/src/main/resources/data1.txt/.part-00003.crc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RDD/src/main/resources/data1.txt/_SUCCESS" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RDD/src/main/resources/data1.txt/part-00000" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RDD/src/main/resources/data1.txt/part-00001" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RDD/src/main/resources/data1.txt/part-00002" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RDD/src/main/resources/data1.txt/part-00003" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RDD/src/main/scala/com/pcy/rdd/ActionOperation.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RDDVectorMatrix/src/main/resources/Spark+MLlib机器学习01.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RDD/src/main/scala/com/pcy/rdd/CreateAndTransfer.scala" beforeDir="false" afterPath="$PROJECT_DIR$/RDD/src/main/scala/com/pcy/rdd/CreateAndTransfer.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RDD/target/classes/com/pcy/rdd/Create$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RDD/target/classes/com/pcy/rdd/Create.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RDD/RDD.iml" beforeDir="false" afterPath="$PROJECT_DIR$/RDDVectorMatrix/RDDVectorMatrix.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RDD/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RDDVectorMatrix/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RDD/src/main/resources/data1.txt/._SUCCESS.crc" beforeDir="false" afterPath="$PROJECT_DIR$/RDDVectorMatrix/src/main/resources/data1.txt/._SUCCESS.crc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RDD/src/main/resources/data1.txt/.part-00000.crc" beforeDir="false" afterPath="$PROJECT_DIR$/RDDVectorMatrix/src/main/resources/data1.txt/.part-00000.crc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RDD/src/main/resources/data1.txt/.part-00001.crc" beforeDir="false" afterPath="$PROJECT_DIR$/RDDVectorMatrix/src/main/resources/data1.txt/.part-00001.crc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RDD/src/main/resources/data1.txt/.part-00002.crc" beforeDir="false" afterPath="$PROJECT_DIR$/RDDVectorMatrix/src/main/resources/data1.txt/.part-00002.crc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RDD/src/main/resources/data1.txt/.part-00003.crc" beforeDir="false" afterPath="$PROJECT_DIR$/RDDVectorMatrix/src/main/resources/data1.txt/.part-00003.crc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RDD/src/main/resources/data1.txt/_SUCCESS" beforeDir="false" afterPath="$PROJECT_DIR$/RDDVectorMatrix/src/main/resources/data1.txt/_SUCCESS" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RDD/src/main/resources/data1.txt/part-00000" beforeDir="false" afterPath="$PROJECT_DIR$/RDDVectorMatrix/src/main/resources/data1.txt/part-00000" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RDD/src/main/resources/data1.txt/part-00001" beforeDir="false" afterPath="$PROJECT_DIR$/RDDVectorMatrix/src/main/resources/data1.txt/part-00001" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RDD/src/main/resources/data1.txt/part-00002" beforeDir="false" afterPath="$PROJECT_DIR$/RDDVectorMatrix/src/main/resources/data1.txt/part-00002" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RDD/src/main/resources/data1.txt/part-00003" beforeDir="false" afterPath="$PROJECT_DIR$/RDDVectorMatrix/src/main/resources/data1.txt/part-00003" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RDD/src/main/scala/com/pcy/rdd/ActionOperation.scala" beforeDir="false" afterPath="$PROJECT_DIR$/RDDVectorMatrix/src/main/scala/com/pcy/rdd/ActionOperation.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RDD/src/main/scala/com/pcy/rdd/CreateAndTransfer.scala" beforeDir="false" afterPath="$PROJECT_DIR$/RDDVectorMatrix/src/main/scala/com/pcy/rdd/CreateAndTransfer.scala" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +54,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="D:/下载/gams-trade-service" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/RDDVectorMatrix/src/main/resources" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -89,7 +92,7 @@
   <component name="RunManager" selected="Application.ActionOperation">
     <configuration name="ActionOperation" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.pcy.rdd.ActionOperation" />
-      <module name="RDD" />
+      <module name="RDDVectorMatrix" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.pcy.rdd.*" />
@@ -102,7 +105,7 @@
     </configuration>
     <configuration name="Create" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.pcy.rdd.Create" />
-      <module name="RDD" />
+      <module name="RDDVectorMatrix" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.pcy.rdd.*" />
@@ -116,6 +119,53 @@
     <configuration name="TravelData" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="TravelData" />
       <module name="LinearRession" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="RDDVectorMatrix" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="RDDVectorMatrix" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -146,8 +196,16 @@
       <workItem from="1596013401080" duration="2489000" />
       <workItem from="1596070584331" duration="2301000" />
       <workItem from="1596178011295" duration="8372000" />
-      <workItem from="1596416365399" duration="2405000" />
+      <workItem from="1596416365399" duration="3279000" />
     </task>
+    <task id="LOCAL-00001" summary="Action operation of RDD">
+      <created>1596418839864</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596418839864</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,5 +226,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Action operation of RDD" />
+    <option name="LAST_COMMIT_MESSAGE" value="Action operation of RDD" />
   </component>
 </project>

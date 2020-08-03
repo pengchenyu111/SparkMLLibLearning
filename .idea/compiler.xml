@@ -8,14 +8,14 @@
         <outputRelativeToContentRoot value="true" />
         <module name="LinearRession" />
         <module name="SVM" />
-        <module name="RDD" />
+        <module name="RDDVectorMatrix" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="LinearRession" options="-parameters" />
-      <module name="RDD" options="-parameters" />
+      <module name="RDDVectorMatrix" options="-parameters" />
       <module name="SVM" options="-parameters" />
       <module name="SparkMllibLearn" options="-parameters" />
     </option>
