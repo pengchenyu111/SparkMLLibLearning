@@ -6,7 +6,7 @@
     <modules>
         <module>LinearRession</module>
         <module>SVM</module>
-        <module>RDD</module>
+        <module>RDDVectorMatrix</module>
     </modules>
 
     <parent>
