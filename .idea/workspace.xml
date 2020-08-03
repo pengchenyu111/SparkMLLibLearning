@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a2e569cb-ed98-43ae-ac88-085d4f9cceb9" name="Default Changelist" comment="" />
+    <list default="true" id="a2e569cb-ed98-43ae-ac88-085d4f9cceb9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/RDD/src/main/resources/data1.txt/._SUCCESS.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RDD/src/main/resources/data1.txt/.part-00000.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RDD/src/main/resources/data1.txt/.part-00001.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RDD/src/main/resources/data1.txt/.part-00002.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RDD/src/main/resources/data1.txt/.part-00003.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RDD/src/main/resources/data1.txt/_SUCCESS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RDD/src/main/resources/data1.txt/part-00000" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RDD/src/main/resources/data1.txt/part-00001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RDD/src/main/resources/data1.txt/part-00002" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RDD/src/main/resources/data1.txt/part-00003" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RDD/src/main/scala/com/pcy/rdd/ActionOperation.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RDD/src/main/scala/com/pcy/rdd/CreateAndTransfer.scala" beforeDir="false" afterPath="$PROJECT_DIR$/RDD/src/main/scala/com/pcy/rdd/CreateAndTransfer.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RDD/target/classes/com/pcy/rdd/Create$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RDD/target/classes/com/pcy/rdd/Create.class" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,6 +26,9 @@
   </component>
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -25,7 +44,11 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1fGh0WUIP4mtIupjnzC5csNI89x" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="D:/下载/gams-trade-service" />
@@ -63,7 +86,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Create">
+  <component name="RunManager" selected="Application.ActionOperation">
+    <configuration name="ActionOperation" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.pcy.rdd.ActionOperation" />
+      <module name="RDD" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pcy.rdd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Create" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.pcy.rdd.Create" />
       <module name="RDD" />
@@ -86,6 +122,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ActionOperation" />
         <item itemvalue="Application.Create" />
         <item itemvalue="Application.TravelData" />
       </list>
@@ -108,11 +145,28 @@
       <workItem from="1595899691800" duration="955000" />
       <workItem from="1596013401080" duration="2489000" />
       <workItem from="1596070584331" duration="2301000" />
-      <workItem from="1596178011295" duration="8353000" />
+      <workItem from="1596178011295" duration="8372000" />
+      <workItem from="1596416365399" duration="2405000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

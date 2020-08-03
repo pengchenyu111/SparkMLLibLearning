@@ -6,7 +6,7 @@ import org.apache.spark.rdd.RDD
 import org.apache.spark.{SparkConf, SparkContext}
 
 /**
- * 文件描述
+ * RDD的创建和转换操作
  *
  * @ProductName: Hundsun HEP
  * @ProjectName: SparkMllibLearn
