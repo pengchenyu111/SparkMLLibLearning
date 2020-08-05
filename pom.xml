@@ -7,6 +7,7 @@
         <module>LinearRession</module>
         <module>SVM</module>
         <module>RDDVectorMatrix</module>
+        <module>RandomForeast</module>
     </modules>
 
     <parent>

@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="RandomForeast" />
         <module name="LinearRession" />
         <module name="SVM" />
         <module name="RDDVectorMatrix" />
@@ -16,6 +17,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="LinearRession" options="-parameters" />
       <module name="RDDVectorMatrix" options="-parameters" />
+      <module name="RandomForeast" options="-parameters" />
       <module name="SVM" options="-parameters" />
       <module name="SparkMllibLearn" options="-parameters" />
     </option>

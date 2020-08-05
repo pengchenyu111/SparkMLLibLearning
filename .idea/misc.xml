@@ -17,6 +17,7 @@
         <option value="$PROJECT_DIR$/SVM/pom.xml" />
         <option value="$PROJECT_DIR$/RDD/pom.xml" />
         <option value="$PROJECT_DIR$/RDDVectorMatrix/pom.xml" />
+        <option value="$PROJECT_DIR$/RandomForeast/pom.xml" />
       </list>
     </option>
   </component>
